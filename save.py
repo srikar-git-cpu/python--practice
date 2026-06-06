@@ -1,0 +1,8 @@
+print("srikar nagubandi")
+print('o----')
+print(' ||||')
+print('*' * 10)
+print('hello world ' * 3)
+print('hi amma ' * 9)
+print(" hare krishna" * 2 )
+print(' claude' * 8)
